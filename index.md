@@ -1,6 +1,6 @@
 ## Welcome!
 To view the "Counting Sheep" problem, click on the below link.
-https://codingcompetitions.withgoogle.com/codejam/round/0000000000201bee/0000000000201c8a
+[a link](https://codingcompetitions.withgoogle.com/codejam/round/0000000000201bee/0000000000201c8a)
 ### Code in Python 3
 
 ```markdown
