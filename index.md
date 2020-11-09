@@ -9,21 +9,39 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+x = input()
 
-# Header 1
-## Header 2
-### Header 3
+num=x
 
-- Bulleted
-- List
+num_str = str(num)
 
-1. Numbered
-2. List
+y = {0,1,2,3,4,5,6,7,8,9}
 
-**Bold** and _Italic_ and `Code` text
+x = set(list(map(int, list(str(x)))))
 
-[Link](url) and ![Image](src)
+i=2
+
+if num == 0:
+
+    print("INSOMNIA")
+
+while True:
+
+    if x==y:
+
+        break
+
+    else:
+
+        x = str(num_str) + str(int(num)*i)
+
+        num_str = x
+
+        x = set(list(map(int, list(str(x)))))
+
+        i=i+1
+
+print(str(int(num)*(i-1)))
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
