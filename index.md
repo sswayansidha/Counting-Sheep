@@ -1,12 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/sswayansidha/Counting-Sheep/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Welcome!
+To view the "Counting Sheep" problem, click on the below link.
+https://codingcompetitions.withgoogle.com/codejam/round/0000000000201bee/0000000000201c8a
+### Code in Python 3
 
 ```markdown
 x = input()
@@ -43,8 +38,6 @@ while True:
 
 print(str(int(num)*(i-1)))
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
